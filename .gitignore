@@ -1,0 +1,4 @@
+.idea/*
+.gradle/*
+GuessTheWorld.iml
+local.properties
